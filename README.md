@@ -34,6 +34,6 @@ O foco principal é compreender como a prática de atividades físicas influenci
   - `seaborn`
 
 ## Esse trabalho foi submetido e aprovado 
-<img src="imag/certificado de aprovação.png" alt="Certificado de Aprovação" width="600">
+<img src="img/certificado de aprovação.png" alt="Certificado de Aprovação" width="600">
 
 
