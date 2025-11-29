@@ -17,7 +17,7 @@ O foco principal é compreender como a prática de atividades físicas influenci
 ## Principais Achados
 - As **doenças cardiovasculares** foram a principal causa de óbito em 2023.
 - O **infarto agudo do miocárdio (CID-10: I21.9)** representou 6,48% dos óbitos.
--   <img src="img/certificado de aprovação.png" alt="Certificado de Aprovação" width="600">
+  <img src="img/grafico1.png" alt="Certificado de Aprovação" width="600">
 
 - Homens apresentaram **mortalidade mais precoce** que mulheres (média de idade: 63 vs 71 anos).  
 - A **hipertensão arterial** foi um fator de risco relevante, com maior prevalência a partir dos 40 anos.  
