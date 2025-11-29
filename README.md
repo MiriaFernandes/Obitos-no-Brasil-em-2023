@@ -9,14 +9,16 @@ Autores: Miriã de Oliveira Fernandes; Sandro Viviani Filho
 ---
 
 ## Objetivo
-O projeto tem como finalidade analisar os dados do **Sistema de Informação sobre Mortalidade (SIM)** referentes ao ano de 2023, relacionando-os com variáveis de estilo de vida obtidas pelo **VIGITEL**.  
+O projeto tem como finalidade analisar os dados do [**Sistema de Informação sobre Mortalidade (SIM)**](https://opendatasus.saude.gov.br/dataset/sim)referentes ao ano de 2023, relacionando-os com variáveis de estilo de vida obtidas pelo [**VIGITEL**](https://svs.aids.gov.br/download/Vigitel/).  
 O foco principal é compreender como a prática de atividades físicas influencia a mortalidade por **doenças cardiovasculares**, especialmente o **infarto agudo do miocárdio (IAM)**.
 
 ---
 
 ## Principais Achados
-- As **doenças cardiovasculares** foram a principal causa de óbito em 2023.  
-- O **infarto agudo do miocárdio (CID-10: I21.9)** representou 6,48% dos óbitos.  
+- As **doenças cardiovasculares** foram a principal causa de óbito em 2023.
+- O **infarto agudo do miocárdio (CID-10: I21.9)** representou 6,48% dos óbitos.
+-   <img src="img/certificado de aprovação.png" alt="Certificado de Aprovação" width="600">
+
 - Homens apresentaram **mortalidade mais precoce** que mulheres (média de idade: 63 vs 71 anos).  
 - A **hipertensão arterial** foi um fator de risco relevante, com maior prevalência a partir dos 40 anos.  
 - A **caminhada** foi a atividade física mais praticada entre hipertensos, representando cerca de 51% dos exercícios.
